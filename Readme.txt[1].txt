@@ -1,0 +1,1 @@
+The Navigation Bar resizes tp its default settings, can you fix this kaka?
