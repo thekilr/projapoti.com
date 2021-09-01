@@ -46,13 +46,13 @@ body {
         color:white; 
         font-size: 2vw;
         padding: 1vw;
-        border-radius: 15px;
+        border-radius: 0.75vw;
       }
       .para1{
         font-family: 'Trirong', serif;
         color:white;
         font-size: 1.5vw; 
-        border-radius: 15px;
+        border-radius: 0.75vw;
       }
       .vidlat{
         color: #333;
@@ -60,14 +60,14 @@ body {
         padding: 3vw ;
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 1.5vw;
-        border-radius: 15px;
+        border-radius: 0.75vw;
       }
       .footer{
         background-color:#333;
         padding: 1vw;
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: #e7e7e7;
-        border-radius: 15px;
+        border-radius: 0.75vw;
       }
       .vid{
         background-color: #333;
@@ -75,5 +75,5 @@ body {
         font-family: 'Garamond', serif;
         color:#f5f5f5;
         font-size: 1.5vw;
-        border-radius: 15px;
+        border-radius: 0.75vw;
       }
